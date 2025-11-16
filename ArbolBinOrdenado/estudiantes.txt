@@ -1,0 +1,13 @@
+Ana Garcia|Ingenieria De Sistemas|Danza|23
+Ana Garcia|Ingenieria De Sistemas|Danza|22
+Carlos Lopez|Ingenieria Electronica|Beisbol|24
+Carlos Lopez|Ingenieria Electronica|Beisbol|24
+Diego Morales|Ingenieria Electronica|Natacion|25
+Elena Vargas|Ingenieria Catastral|Danza|22
+Jose Martinez|Ingenieria Catastral|Natacion|26
+Laura Fernandez|Ingenieria Industrial|Danza|21
+Maria Rodriguez|Ingenieria Electronica|Basquet|20
+Maria Rodriguez|Ingenieria Electronica|Basquet|20
+Pedro Sanchez|Ingenieria De Sistemas|Beisbol|23
+Roberto Silva|Ingenieria Industrial|Beisbol|27
+Sofia Torres|Ingenieria Electronica|Basquet|19
